@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="place_name" type="id" />
+    <item name="place_content" type="id" />
+    <item name="navigator" type="id" />
+</resources>
